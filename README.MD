@@ -1,3 +1,3 @@
 # WPS强制登录修复工具
 
-## 详细见[https://kfbbt.fengshistudio.top/T1716640229](https://kfbbt.fengshistudio.top/T1716640229)，本处只做开源
+## 修复强制登录工具，用于修复“登陆以激活WPS，获取更多功能和服务”提示（16250，16729等）
